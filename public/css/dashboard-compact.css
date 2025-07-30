@@ -1,0 +1,38 @@
+/* Compact stat cards */
+.stat-card {
+    padding: 15px;
+}
+
+.stat-card .icon {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+}
+
+.stat-card .count {
+    font-size: 2rem;
+    margin-bottom: 3px;
+}
+
+.stat-card .title {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.neumorphic {
+    padding: 20px;
+}
+
+/* Make buttons in stat cards smaller */
+.stat-card .neumorphic-button {
+    padding: 6px 12px;
+    font-size: 0.9rem;
+}
+
+/* Adjust spacing for better compact layout */
+.row {
+    margin-bottom: 15px;
+}
+
+.mb-4 {
+    margin-bottom: 15px !important;
+}
